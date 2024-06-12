@@ -2,3 +2,5 @@ trojan://c9489030-2847-11ef-9346-1239d0255272@icook.hk:443?path=%2Fhowdy&securit
 trojan://d6479ac0-2848-11ef-ba8d-1239d0255272@104.24.20.17:443?path=%2Fhowdy&security=tls&host=fr1.test3.net&fp=randomized&type=ws&sni=fr1.test3.net#frnce.hwdy
 trojan://101ffa10-2849-11ef-a9de-1239d0255272@icook.hk:443?path=%2Fhowdy&security=tls&host=uk1.test3.net&fp=chrome&type=ws&sni=uk1.test3.net#london.hwdy
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.24.20.17:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=edgood.889876.xyz&fp=ios&type=ws&sni=edgood.889876.xyz#FR-Paris400
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@icook.hk:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ser.889876.xyz.&fp=ios&type=ws&sni=ser.889876.xyz.#PL-Sp.+z+o.o
+hysteria://108.181.5.133:26022/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20US%20%E5%8A%A0%E5%B7%9E%20AS40676%20Psychz%20Networks
