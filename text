@@ -1,8 +1,4 @@
-trojan://c9489030-2847-11ef-9346-1239d0255272@icook.hk:443?path=%2Fhowdy&security=tls&host=ca1.test3.net&fp=randomized&type=ws&sni=ca1.test3.net#canada.hwdy
-trojan://d6479ac0-2848-11ef-ba8d-1239d0255272@104.24.20.17:443?path=%2Fhowdy&security=tls&host=fr1.test3.net&fp=randomized&type=ws&sni=fr1.test3.net#frnce.hwdy
-trojan://101ffa10-2849-11ef-a9de-1239d0255272@icook.hk:443?path=%2Fhowdy&security=tls&host=uk1.test3.net&fp=chrome&type=ws&sni=uk1.test3.net#london.hwdy
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.24.20.17:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=edgood.889876.xyz&fp=ios&type=ws&sni=edgood.889876.xyz#FR-Paris400
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@icook.hk:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ser.889876.xyz.&fp=ios&type=ws&sni=ser.889876.xyz.#PL-Sp.+z+o.o
-hysteria://108.181.5.133:26022/?insecure=1&peer=bing.com&auth=dongtaiwang.com&upmbps=11&downmbps=55&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20US%20%E5%8A%A0%E5%B7%9E%20AS40676%20Psychz%20Networks
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@icook.hk:443?path=%2F&security=tls&encryption=none&host=jjlklh-3000.csb.app&fp=chrome&type=ws&sni=jjlklh-3000.csb.app#cod1
-warp://warp.frns119.free.hr:2408:/?ifp=5-10
+vless://f1c0e4ee-8c48-4a17-9882-e0188e305f84@85.9.122.125:7841?security=&encryption=none&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20SUPER%20SERVER%20%F0%9F%92%8E
+vless://964d67af-5131-43ae-9a15-cbf0688c8d25@shy-cake-0ecdre3.farzadns.workers.dev:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=shy-cake-0ecdre3.farzadns.workers.deV&type=ws#capenhag
+vless://ef18b48f-4d7e-40fa-822f-c5a7160af404@emergency3.netprivate-server.ir:9949?security=&encryption=none&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%87%AE%F0%9F%87%B7%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C
+vless://b8adb0ec-896b-4b55-ba93-fd95ebebeff9@116.203.134.125:2078?security=none&type=tcp&headerType=http&path=%2F&host=tgju.org#%D8%AA%D8%B3%D8%AA
